@@ -1,0 +1,7 @@
+- Install
+
+- Replace Fix file here:
+
+C:\Program Files (x86)\Professor Teaches\Professor Teaches QuickBooks 2020
+
+- You can create a shortcut to ISI Launcher.exe in the same dir
